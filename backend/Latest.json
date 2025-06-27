@@ -1,0 +1,188 @@
+{
+  "movies":[
+{
+  "movie_name": "Kannappa",
+  "movie_pic": "https://m.media-amazon.com/images/M/MV5BNTdhMjA2NWMtNmVkOC00ODdiLTgwNjItNWQ5ZGI1ZTEzODI1XkEyXkFqcGc@._V1_FMjpg_UY4961_.jpg",
+  "rating": "9.1",
+  "votes": "68200",
+  "formats": ["2D", "IMAX"],
+  "languages": ["Telugu"],
+  "duration": "3h 2m",
+  "genres": ["Mythological", "Devotional", "Action", "Drama"],
+  "certificate": "UA",
+  "release_date": "27 Jun, 2025"
+},
+  {
+    "movie_name": "Kuberaa",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojRMrKNG21xBKoRShr7-plFivcYnJhkN8DQ&s",
+    "rating": "8.5",
+    "votes": "42700",
+    "formats": ["2D"],
+    "languages": ["Tamil", "Malayalam", "Hindi", "Kannada", "Telugu"],
+    "duration": "3h 2m",
+    "genres": ["Action", "Drama", "Social", "Thriller"],
+    "certificate": "UA13+",
+    "release_date": "20 Jun, 2025"
+  },
+  {
+    "movie_name": "8 vasanthalu",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEY-hwkTocQyOoPfJ-ftmShTLsOOpwzUlMQ&s",
+    "rating": "8.9",
+    "votes": "71200",
+    "formats": ["2D", "3D"],
+    "languages": ["Telugu", "Hindi"],
+    "duration": "2h 50m",
+    "genres": ["Action", "Thriller"],
+    "certificate": "UA",
+    "release_date": "15 Aug, 2025"
+  },
+  {
+    "movie_name": "subham",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04o8sQOU3vxYytCF4TgG6teTFTv43Jbt8Fg&s",
+    "rating": "9.0",
+    "votes": "135000",
+    "formats": ["2D"],
+    "languages": ["Telugu", "Hindi", "Tamil"],
+    "duration": "3h 7m",
+    "genres": ["Action", "Drama", "Historical"],
+    "certificate": "UA",
+    "release_date": "24 Mar, 2022"
+  },
+  {
+    "movie_name": "blind spot",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzCdbB95SQkA3RrdzJR_rC6qgIZFNhx6IAA&s",
+    "rating": "7.5",
+    "votes": "93000",
+    "formats": ["2D", "IMAX"],
+    "languages": ["Hindi", "Tamil", "Telugu"],
+    "duration": "2h 40m",
+    "genres": ["Action", "Thriller"],
+    "certificate": "UA",
+    "release_date": "07 Sep, 2023"
+  }
+],
+"shows":[
+  {
+    "movie_name": "Dhee",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmdZ3i9XQh7Fn-9R4uZWm74Qw-2EK_4AThg&s",
+    "rating": "9.2",
+    "votes": "12000",
+    "formats": ["Live"],
+    "languages": ["English", "Hindi","Telugu"],
+    "duration": "1h 30m",
+    "genres": ["Dance", "Music"], 
+    "certificate": "UA",
+    "release_date": "28 Jun, 2025"
+  },
+  {
+    "movie_name": "sarkar",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjgjGIUgcSV3KIxgOSFuYGrI82kQNzH89XA&s",
+    "rating": "8.1",
+    "votes": "9000",
+    "formats": ["Live"],
+    "languages": ["Telugu"],
+    "duration": "1h",
+    "genres": ["Comedy", "Family"],
+    "certificate": "U",
+    "release_date": "10 Jul, 2025"
+  },
+  {
+    "movie_name": "sridevi Drama Company",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU63Fjv2hpM3KS7cB3d9kZUP2-sqxd4g8smg&s",
+    "rating": "7.4",
+    "votes": "3500",
+    "formats": ["Live"],
+    "languages": ["Telugu","English","Hindi"],
+    "duration": "2h",
+    "genres": ["Drama","Comedy","action"],
+    "certificate": "UA",
+    "release_date": "25 Jun, 2025"
+  },
+  {
+    "movie_name": "jabardasth",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6iS4K-rqqccR5NvxotvvJHJjrJnenCcrPw&s",
+    "rating": "8.7",
+    "votes": "8200",
+    "formats": ["Live"],
+    "languages": ["Tamil"],
+    "duration": "1h 45m",
+    "genres": ["Comedy", "Stand-up"],
+    "certificate": "U",
+    "release_date": "5 Jul, 2025"
+  },
+  {
+    "movie_name": "drama juniors",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTao3cbMkKmpUxnb1_wAbmonocYloh8q4fPdw&s",
+    "rating": "8.0",
+    "votes": "4100",
+    "formats": ["Live"],
+    "languages": ["English"],
+    "duration": "1h 20m",
+    "genres": ["Comedy"],
+    "certificate": "UA",
+    "release_date": "12 Jul, 2025"
+  }
+],
+"webseries":[
+  {
+    "movie_name": "Rana Naidu",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oa7LRt8OrEUaSFz9OeuH5ijVGV2P9oPdkw&s",
+    "rating": "9.0",
+    "votes": "68000",
+    "formats": ["Web"],
+    "languages": ["Hindi","Telugu","English"],
+    "duration": "8 Episodes",
+    "genres": ["Crime", "Drama"],
+    "certificate": "A",
+    "release_date": "10 Aug, 2025"
+  },
+  {
+    "movie_name": "The Hacker",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwC6ryWprI7axVFCA8bVOBSscjrbyReGhnog&s",
+    "rating": "8.3",
+    "votes": "29000",
+    "formats": ["Web"],
+    "languages": ["English"],
+    "duration": "10 Episodes",
+    "genres": ["Tech", "Thriller"],
+    "certificate": "UA",
+    "release_date": "22 Sep, 2025"
+  },
+  {
+    "movie_name": "Family Man 3",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIwiDLtN76j2xfv0b2t6qV3AZccXJX7Ip6BQ&s",
+    "rating": "9.2",
+    "votes": "89000",
+    "formats": ["Web"],
+    "languages": ["Hindi", "Telugu"],
+    "duration": "9 Episodes",
+    "genres": ["Action", "Drama"],
+    "certificate": "UA",
+    "release_date": "18 Jul, 2025"
+  },
+  {
+    "movie_name": "Dark Matter",
+    "movie_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwC6ryWprI7axVFCA8bVOBSscjrbyReGhnog&s",
+    "rating": "8.6",
+    "votes": "47000",
+    "formats": ["Web"],
+    "languages": ["English"],
+    "duration": "7 Episodes",
+    "genres": ["Sci-Fi", "Mystery"],
+    "certificate": "UA13+",
+    "release_date": "30 Jun, 2025"
+  },
+  {
+    "movie_name": "Telugu Medium",
+    "movie_pic": "https://i.ytimg.com/vi/zXra6lBGzJg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDxyFsYbi0tKRnkP_MrbcctWOJi-g",
+    "rating": "8.8",
+    "votes": "37000",
+    "formats": ["Web"],
+    "languages": ["Hindi"],
+    "duration": "10 Episodes",
+    "genres": ["Drama", "Romance"],
+    "certificate": "UA",
+    "release_date": "05 Jul, 2025"
+  }
+]
+}
